@@ -5,6 +5,8 @@ Este desafio teve como objetivo fazer a criação de componentes e organizar o c
 * [ReactJS](https://pt-br.reactjs.org)
 * [Typescript](https://www.typescriptlang.org)
 * [Yarn](https://classic.yarnpkg.com/en/)
+* [Webpack](https://webpack.js.org)
+* [Babel](https://babeljs.io)
 * [json-server](https://github.com/typicode/json-server)
 
 ### Rodar aplicação
